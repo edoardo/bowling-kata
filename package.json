@@ -1,0 +1,14 @@
+{
+  "name": "bowling-kata",
+  "version": "0.0.0",
+  "description": "Bowling kata in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Edoardo Sabadelli",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
